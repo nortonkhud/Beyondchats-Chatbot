@@ -47,15 +47,15 @@ const Footer = () => {
             <ul className="space-y-2">
               <li className="flex items-center">
                 <Mail className="h-4 w-4 mr-2" />
-                support@beyondchats.com
+                nortonkhud@gmail.com
               </li>
               <li className="flex items-center">
                 <Phone className="h-4 w-4 mr-2" />
-                +91 (800) 123-4567
+                +91 63674-12559
               </li>
               <li className="flex items-center">
                 <MapPin className="h-4 w-4 mr-2" />
-                123 Tech Park, Bangalore
+                Bhilwara, Rajasthan
               </li>
             </ul>
           </div>
