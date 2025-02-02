@@ -92,7 +92,7 @@ const AuthForm: React.FC<AuthFormProps> = ({ mode, onSuccess, onError }) => {
             value={name}
             onChange={(e) => setName(e.target.value)}
             className="w-full px-4 py-2 rounded-lg border border-gray-300 dark:border-gray-600 focus:ring-2 focus:ring-red-500 dark:bg-gray-800 dark:text-white"
-            placeholder="John Doe"
+            placeholder="Navratan Jat"
             required
           />
         </div>
@@ -107,7 +107,7 @@ const AuthForm: React.FC<AuthFormProps> = ({ mode, onSuccess, onError }) => {
           value={email}
           onChange={(e) => setEmail(e.target.value)}
           className="w-full px-4 py-2 rounded-lg border border-gray-300 dark:border-gray-600 focus:ring-2 focus:ring-red-500 dark:bg-gray-800 dark:text-white"
-          placeholder="you@example.com"
+          placeholder="nortonkhud@gmail.com"
           required
         />
       </div>
